@@ -1,0 +1,19 @@
+Clone the project 
+
+For Backend
+--------------------------------------
+1) cd travel-backend
+2) npm i
+3) Create .env  file with 
+           DATABASE_URL="mongodb+srv://usename:<password>@travel-app.k3senkc.mongodb.net/?retryWrites=true&w=majority&appName=travel-app"
+           OPEN_API_KEY=<Open api key>
+
+4) npm start
+
+
+For Frontend
+-------------------------------------
+
+1) cd travel-frontend
+2) npm i
+3) npm run dev
